@@ -72,17 +72,6 @@ education:
       - Pharmacology, medical statistics, pharmacoepidemiology
      
 work:
-  - position: Freelancer
-    #company_name: GenCoin
-    #company_url: ''
-    #company_logo: ''
-    date_start: 2024-05-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Chinese Translation and localization of Economic Evaluation in Clinical Trials
-      - Providing services including but not limited to research document writing, deck preparation, data analysing, health technology assessment, etc.
-      - Clients: Shanghai Health Development Research Center
   - position: Clinical Statistician
     company_name: Jiangsu Hengrui Pharmaceuticals Co., Ltd.
     company_url: 'https://www.hengrui.com/en/about.html'
