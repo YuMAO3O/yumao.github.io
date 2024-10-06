@@ -78,7 +78,7 @@ work:
     #company_logo: ''
     date_start: 2024-05
     date_end: ''
-    summary: |3-
+    summary: |1-
       Responsibilities include:
       - Chinese Translation and localization of Economic Evaluation in Clinical Trials
       - Providing services including but not limited to research document writing, deck preparation, data analysing, health technology assessment, etc.
