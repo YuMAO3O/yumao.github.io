@@ -76,9 +76,9 @@ work:
     #company_name: GenCoin
     #company_url: ''
     #company_logo: ''
-    date_start: 2024-05
+    date_start: 2024-05-01
     date_end: ''
-    summary: |1-
+    summary: |2-
       Responsibilities include:
       - Chinese Translation and localization of Economic Evaluation in Clinical Trials
       - Providing services including but not limited to research document writing, deck preparation, data analysing, health technology assessment, etc.
@@ -87,8 +87,8 @@ work:
     company_name: Jiangsu Hengrui Pharmaceuticals Co., Ltd.
     company_url: 'https://www.hengrui.com/en/about.html'
     #company_logo: ''
-    date_start: 2023-05
-    date_end: 2024-04
+    date_start: 2023-05-01
+    date_end: 2024-04-28
     summary: |2-
       Responsibilities include:
       - Study design & data analysis, review of study protocols/SAP/CRF, sample size calculation and data analysis for early phase clinical studies and real-world studies
@@ -98,8 +98,8 @@ work:
     company_name: Hangzhou Tigermed Consulting Co., Ltd.
     company_url: 'https://www.tigermedgrp.com/en/homepage'
     #company_logo: ''
-    date_start: 2021-09
-    date_end: 2023-04
+    date_start: 2021-09-28
+    date_end: 2023-04-28
     summary: |-
       Responsibilities include:
       - Solution making for real-world studies, including desk research on diseases and products, medical strategies, and slide preparation.
