@@ -73,28 +73,28 @@ education:
      
 
 work:
-  - position: Clinical Statistician
-    company_name: Jiangsu Hengrui Pharmaceuticals Co., Ltd.
-    company_url: 'https://www.hengrui.com/en/about.html'
-    #company_logo: ''
-    date_start: 2023-05
-    date_end: 2024-04
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
-      - Study design & data analysis, review of study protocols/SAP/CRF, sample size calculation and data analysis for early phase clinical studies and real-world studies
-      - Manuscripts review & publication support
-      - Providing training on study design and data analysis to internal and external audiences
-  - position: RWE Solution Supervisor
-    company_name: Hangzhou Tigermed Consulting Co., Ltd.
-    company_url: 'https://www.tigermedgrp.com/en/homepage'
-    #company_logo: ''
-    date_start: 2021-09
-    date_end: 2023-04
-    summary: |-
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
       Responsibilities include:
-      - Solution making for real-world studies, including desk research on diseases and products, medical strategies, and slide preparation.
-      - Design and conduct observational studies: study documents development (study protocol, CRF), project management
-      - Covered therapeutic areas: Oncology, immunology, rare disease, etc.
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
